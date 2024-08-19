@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tengfamed.github.io/sitemap/sitemap.txt
